@@ -1,0 +1,176 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 100.118.127.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1787363496976
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1787363835612
+  login: 1787362214307
+money: '0'
+last-account-name: Tmw_juan
+logoutlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: -48484.80073905004
+  y: -51.0
+  z: -19877.245525543738
+  yaw: 77.7109375
+  pitch: 20.999998092651367
+lastlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: 154.30000001192093
+  y: 68.0
+  z: -639.6194776359174
+  yaw: 52.060302734375
+  pitch: 16.950185775756836
+homes:
+  home:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 340.19017219430503
+    y: 87.0
+    z: 24.280107784234694
+    yaw: -86.09976196289062
+    pitch: 25.800006866455078
+  mina:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: -890.3688957904989
+    y: 66.0
+    z: 504.56968346483836
+    yaw: 67.5013427734375
+    pitch: 57.450016021728516
+  casa:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 340.8281414086326
+    y: 87.0
+    z: 24.780506507288077
+    yaw: 177.6085205078125
+    pitch: 13.34997844696045
+  arbol:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 72.76033070667714
+    y: 72.0
+    z: 2027.80474002203
+    yaw: -3.2880859375
+    pitch: 23.249990463256836
+  bioma:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 448.83047325252465
+    y: 84.0
+    z: 2127.890026567052
+    yaw: -43.638275146484375
+    pitch: 33.89999008178711
+  mansion:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 713.5569837501959
+    y: 75.0
+    z: 2028.323544817673
+    yaw: -89.988037109375
+    pitch: 8.850016593933105
+  aldea:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: -413.99955772926677
+    y: 63.0
+    z: 1939.97202228845
+    yaw: -84.88873291015625
+    pitch: 25.49993896484375
+  fortaleza:
+    world: f662888b-6faf-489f-ae66-effd12e7f9d1
+    world-name: world_nether
+    x: 604.3567459899086
+    y: 67.0
+    z: -572.1073532055493
+    yaw: 178.3603515625
+    pitch: -9.29987907409668
+  dragon:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 1199.137993616052
+    y: -32.5
+    z: 916.1166987609572
+    yaw: -3.88653564453125
+    pitch: 37.50011444091797
+  elytras:
+    world: 83d8da02-94f9-4e4d-abe4-6237c731330f
+    world-name: world_the_end
+    x: 1369.7670882492343
+    y: 111.0
+    z: -1574.1693208593256
+    yaw: -159.610595703125
+    pitch: 14.10002326965332
+  mina3:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 160.71081061740844
+    y: 63.0
+    z: -651.8318354466661
+    yaw: -150.43994140625
+    pitch: 43.50018310546875
+  jungla:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 1130.5
+    y: 69.0
+    z: -1131.5
+    yaw: -124.73979949951172
+    pitch: 18.30000114440918
+  flor:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: -689.0163037920252
+    y: 139.0
+    z: -5348.217809281525
+    yaw: 38.25876998901367
+    pitch: 21.150020599365234
+  ancients:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: -324.3356977860587
+    y: -34.0
+    z: -5183.300000011921
+    yaw: 92.2582778930664
+    pitch: 21.450021743774414
+  cofre:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: -397.87368682220057
+    y: -38.0
+    z: -5176.411413781574
+    yaw: 31.662109375
+    pitch: 11.100006103515625
+  s:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: -31861.388168318554
+    y: 95.0
+    z: -27546.75543435382
+    yaw: 12.001251220703125
+    pitch: 17.400020599365234
+  netherita:
+    world: f662888b-6faf-489f-ae66-effd12e7f9d1
+    world-name: world_nether
+    x: 50.40646629126019
+    y: 16.0
+    z: 148.77508693492027
+    yaw: -148.9397430419922
+    pitch: 13.950056076049805

@@ -1,0 +1,64 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 100.113.101.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1787362591120
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1787363547067
+  login: 1787360604819
+money: '0'
+last-account-name: Jordi_dior
+lastlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: 399.88460210397324
+  y: 70.5
+  z: 39.548257147075006
+  yaw: -79.23837280273438
+  pitch: 2.7000579833984375
+logoutlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: 1049.699999988079
+  y: 100.0
+  z: -931.3239272735793
+  yaw: -12.66015625
+  pitch: 7.499992847442627
+homes:
+  home:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 380.8628692293976
+    y: 62.0
+    z: 37.0945440001462
+    yaw: -102.788330078125
+    pitch: -1.1999497413635254
+  mina:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: -402.23089390438616
+    y: 21.0
+    z: 355.97394245992274
+    yaw: 138.093017578125
+    pitch: 19.35017967224121
+  casajungla:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 1044.2205876960925
+    y: 100.0
+    z: -950.3559280421613
+    yaw: 40.574127197265625
+    pitch: 20.850122451782227

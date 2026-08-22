@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 100.69.168.50
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1787087376884
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1787094577218
+  login: 1787093919670
+money: '0'
+last-account-name: adrianapadilla
+lastlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: 284.0364201197117
+  y: 63.0
+  z: -158.30000001192093
+  yaw: -26.05291748046875
+  pitch: 7.649960517883301
+logoutlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: 395.9771619094017
+  y: 68.5
+  z: 40.13581712193823
+  yaw: 21.74024200439453
+  pitch: 16.04994010925293

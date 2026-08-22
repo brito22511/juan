@@ -1,0 +1,306 @@
+[00:02:04] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.11+10-1-24.04.2-Ubuntu; Ubuntu null) on Linux 6.8.0-1052-azure (amd64)
+[00:02:04] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[00:02:04] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:02:06] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[00:02:06] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - Essentials (2.22.0), LuckPerms (5.5.53)
+[00:02:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:02:13] [ServerMain/INFO]: Loaded 1407 recipes
+[00:02:13] [ServerMain/INFO]: Loaded 1520 advancements
+[00:02:13] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[00:02:14] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 397.9ms
+[00:02:14] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[00:02:14] [Server thread/INFO]: Loading properties
+[00:02:14] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[00:02:14] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:02:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:02:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:02:15] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[00:02:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:02:16] [Server thread/INFO]: Default game type: SURVIVAL
+[00:02:16] [Server thread/INFO]: Generating keypair
+[00:02:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:02:16] [Server thread/INFO]: Using epoll channel type
+[00:02:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:02:16] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[00:02:17] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.53
+[00:02:18] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[00:02:18] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0
+[00:02:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:02:18] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.53
+[00:02:18] [Server thread/INFO]:         __    
+[00:02:18] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.53
+[00:02:18] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[00:02:18] [Server thread/INFO]: 
+[00:02:18] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[00:02:19] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[00:02:19] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[00:02:19] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1384ms)
+[00:02:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:02:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:02:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:02:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:02:19] [Server thread/INFO]: Preparing level "world"
+[00:02:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:02:20] [Server thread/INFO]: Preparing spawn area: 0%
+[00:02:20] [Server thread/INFO]: Preparing spawn area: 2%
+[00:02:21] [Server thread/INFO]: Preparing spawn area: 20%
+[00:02:22] [Server thread/INFO]: Preparing spawn area: 63%
+[00:02:22] [Server thread/INFO]: Preparing spawn area: 63%
+[00:02:22] [Server thread/INFO]: Time elapsed: 2019 ms
+[00:02:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:02:22] [Server thread/INFO]: Preparing spawn area: 0%
+[00:02:23] [Server thread/INFO]: Preparing spawn area: 16%
+[00:02:23] [Server thread/INFO]: Preparing spawn area: 57%
+[00:02:23] [Server thread/INFO]: Time elapsed: 1294 ms
+[00:02:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:02:23] [Server thread/INFO]: Preparing spawn area: 0%
+[00:02:23] [Server thread/INFO]: Time elapsed: 256 ms
+[00:02:24] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0
+[00:02:24] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[00:02:24] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[00:02:24] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[00:02:24] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected Paper 1.13+ Tile Entity Provider as the provider for TileEntityProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[00:02:24] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[00:02:25] [Server thread/INFO]: [Essentials] Loaded 46312 items from items.json.
+[00:02:25] [Server thread/INFO]: [Essentials] Using locale en
+[00:02:25] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[00:02:25] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:02:25] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[00:02:25] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[00:02:25] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[00:02:26] [Server thread/INFO]: [spark] Starting background profiler...
+[00:02:26] [Server thread/INFO]: Done preparing level "world" (7.273s)
+[00:02:26] [Server thread/INFO]: Running delayed init tasks
+[00:02:26] [Server thread/INFO]: Done (24.578s)! For help, type "help"
+[00:02:26] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[00:02:40] [User Authenticator #0/INFO]: UUID of player Tmw_juan is ef70cbbe-001b-3964-9e89-729cf4147a2d
+[00:02:40] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms]
+[00:02:42] [Server thread/INFO]: Tmw_juan joined the game
+[00:02:42] [Server thread/INFO]: Tmw_juan[/100.118.127.43:59914] logged in with entity id 15 at ([world]363.97600428282954, 88.0, 24.351824139192132)
+[00:02:46] [User Authenticator #0/INFO]: UUID of player Jordi_dior is 7d52711d-b6f8-3c54-8e67-1149631d1b33
+[00:02:58] [Server thread/INFO]: Jordi_dior joined the game
+[00:02:58] [Server thread/INFO]: Jordi_dior[/100.113.101.122:52340] logged in with entity id 187 at ([world]1040.4465621201198, 100.0, -931.4500206801537)
+[00:03:28] [Server thread/INFO]: Jordi_dior was kicked due to keepalive timeout!
+[00:03:28] [Server thread/INFO]: Jordi_dior lost connection: Timed out
+[00:03:28] [Server thread/INFO]: Jordi_dior left the game
+[00:05:05] [User Authenticator #1/INFO]: UUID of player Jordi_dior is 7d52711d-b6f8-3c54-8e67-1149631d1b33
+[00:05:09] [Server thread/INFO]: Jordi_dior joined the game
+[00:05:09] [Server thread/INFO]: Jordi_dior[/100.113.101.122:57988] logged in with entity id 724 at ([world]1040.4465621201198, 100.0, -931.4500206801537)
+[00:05:41] [Server thread/INFO]: Jordi_dior was kicked due to keepalive timeout!
+[00:05:41] [Server thread/INFO]: Jordi_dior lost connection: Timed out
+[00:05:41] [Server thread/INFO]: Jordi_dior left the game
+[00:06:13] [User Authenticator #2/INFO]: UUID of player Jordi_dior is 7d52711d-b6f8-3c54-8e67-1149631d1b33
+[00:06:14] [Server thread/INFO]: Jordi_dior joined the game
+[00:06:14] [Server thread/INFO]: Jordi_dior[/100.113.101.122:56687] logged in with entity id 1099 at ([world]1040.4465621201198, 100.0, -931.4500206801537)
+[00:11:59] [Server thread/INFO]: Jordi_dior lost connection: Timed out
+[00:11:59] [Server thread/INFO]: Jordi_dior left the game
+[00:22:17] [User Authenticator #3/INFO]: UUID of player Jordi_dior is 7d52711d-b6f8-3c54-8e67-1149631d1b33
+[00:22:22] [Server thread/INFO]: Jordi_dior joined the game
+[00:22:22] [Server thread/INFO]: Jordi_dior[/100.113.101.122:49680] logged in with entity id 3588 at ([world]1051.6491353269832, 104.0, -934.4869340943884)
+[00:22:53] [Server thread/INFO]: Jordi_dior was kicked due to keepalive timeout!
+[00:22:53] [Server thread/INFO]: Jordi_dior lost connection: Timed out
+[00:22:53] [Server thread/INFO]: Jordi_dior left the game
+[00:25:38] [User Authenticator #4/INFO]: UUID of player Jordi_dior is 7d52711d-b6f8-3c54-8e67-1149631d1b33
+[00:25:38] [Server thread/INFO]: Jordi_dior joined the game
+[00:25:38] [Server thread/INFO]: Jordi_dior[/100.113.101.122:60790] logged in with entity id 4292 at ([world]1051.6491353269832, 104.0, -934.4869340943884)
+[00:32:11] [User Authenticator #5/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[00:32:15] [Server thread/INFO]: Julio_HZ joined the game
+[00:32:15] [Server thread/INFO]: Julio_HZ[/100.112.10.127:52010] logged in with entity id 6096 at ([world]378.9200979300122, 62.0, 41.28855648416589)
+[00:32:27] [Async Chat Thread - #0/INFO]: [Not Secure] <Tmw_juan> voy a comer me voy a quedar quieto
+[00:32:48] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[00:32:48] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[00:32:48] [Server thread/INFO]: Julio_HZ left the game
+[00:33:56] [User Authenticator #6/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[00:33:57] [Server thread/INFO]: Julio_HZ joined the game
+[00:33:57] [Server thread/INFO]: Julio_HZ[/100.112.10.127:50601] logged in with entity id 6395 at ([world]380.145965613963, 62.0, 40.215875087840324)
+[00:34:02] [Async Chat Thread - #1/INFO]: [Not Secure] <Tmw_juan> julioo
+[00:34:15] [Async Chat Thread - #1/INFO]: [Not Secure] <Julio_HZ> donde estas
+[00:34:20] [Async Chat Thread - #1/INFO]: [Not Secure] <Tmw_juan> esperate
+[00:34:25] [Async Chat Thread - #1/INFO]: [Not Secure] <Tmw_juan> estoy encerrao
+[00:34:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Julio_HZ> dale
+[00:34:36] [Async Chat Thread - #1/INFO]: [Not Secure] <Tmw_juan> estoy comiendo
+[00:34:44] [Async Chat Thread - #2/INFO]: [Not Secure] <Julio_HZ> dale
+[00:34:51] [Async Chat Thread - #1/INFO]: [Not Secure] <Julio_HZ> yo voy a voloar
+[00:35:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Julio_HZ> a bolar
+[00:35:16] [Async Chat Thread - #1/INFO]: [Not Secure] <Tmw_juan> era era
+[00:35:22] [Async Chat Thread - #1/INFO]: [Not Secure] <Tmw_juan> con lo mio
+[00:35:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Julio_HZ> aro
+[00:36:23] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[00:36:23] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[00:36:23] [Server thread/INFO]: Julio_HZ left the game
+[00:37:09] [User Authenticator #7/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[00:37:09] [Server thread/INFO]: Julio_HZ joined the game
+[00:37:09] [Server thread/INFO]: Julio_HZ[/100.112.10.127:57694] logged in with entity id 7092 at ([world]367.6508564165995, 80.0, 19.867465955332037)
+[00:40:26] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[00:40:26] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[00:40:26] [Server thread/INFO]: Julio_HZ left the game
+[00:40:58] [User Authenticator #8/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[00:40:59] [Server thread/INFO]: Julio_HZ joined the game
+[00:40:59] [Server thread/INFO]: Julio_HZ[/100.112.10.127:49198] logged in with entity id 7781 at ([world]358.1043931308596, 91.0, 27.595967726429333)
+[00:43:24] [Server thread/INFO]: Julio_HZ lost connection: Disconnected
+[00:43:24] [Server thread/INFO]: Julio_HZ left the game
+[00:43:28] [User Authenticator #9/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[00:43:32] [Server thread/INFO]: Julio_HZ joined the game
+[00:43:32] [Server thread/INFO]: Julio_HZ[/100.112.10.127:63926] logged in with entity id 8223 at ([world]367.88812320727413, 80.0, 20.81806881509292)
+[00:44:05] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[00:44:05] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[00:44:05] [Server thread/INFO]: Julio_HZ left the game
+[00:44:34] [User Authenticator #10/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[00:44:35] [Server thread/INFO]: Julio_HZ joined the game
+[00:44:35] [Server thread/INFO]: Julio_HZ[/100.112.10.127:53665] logged in with entity id 8403 at ([world]363.34560543253497, 80.0, 21.5974397447726)
+[00:45:09] [Server thread/INFO]: Julio_HZ lost connection: Disconnected
+[00:45:09] [Server thread/INFO]: Julio_HZ left the game
+[00:52:39] [Server thread/INFO]: Tmw_juan issued server command: /homes s
+[00:55:59] [User Authenticator #11/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[00:56:01] [Server thread/INFO]: Julio_HZ joined the game
+[00:56:01] [Server thread/INFO]: Julio_HZ[/100.112.10.127:62766] logged in with entity id 11454 at ([world]364.415640894436, 80.0625, 25.22127041567887)
+[00:56:07] [Async Chat Thread - #3/INFO]: [Not Secure] <Tmw_juan> era era
+[00:56:11] [Async Chat Thread - #3/INFO]: [Not Secure] <Tmw_juan> ese julio ay
+[00:56:32] [Server thread/INFO]: Tmw_juan issued server command: /tpa casa
+[00:56:33] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[00:56:33] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[00:56:33] [Server thread/INFO]: Julio_HZ left the game
+[00:56:40] [Server thread/INFO]: Tmw_juan issued server command: /homes casa
+[00:57:03] [Netty Epoll Server IO #0/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+[00:57:08] [User Authenticator #12/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[00:57:09] [Server thread/INFO]: Julio_HZ joined the game
+[00:57:09] [Server thread/INFO]: Julio_HZ[/100.112.10.127:62830] logged in with entity id 11919 at ([world]364.415640894436, 80.0625, 25.22127041567887)
+[00:57:41] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[00:57:41] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[00:57:41] [Server thread/INFO]: Julio_HZ left the game
+[00:59:01] [User Authenticator #13/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[00:59:01] [Server thread/INFO]: Julio_HZ joined the game
+[00:59:01] [Server thread/INFO]: Julio_HZ[/100.112.10.127:53482] logged in with entity id 12362 at ([world]365.2911890035447, 80.0625, 26.12019081613054)
+[00:59:35] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[00:59:35] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[00:59:35] [Server thread/INFO]: Julio_HZ left the game
+[01:01:28] [User Authenticator #14/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[01:01:29] [Server thread/INFO]: Julio_HZ joined the game
+[01:01:29] [Server thread/INFO]: Julio_HZ[/100.112.10.127:60567] logged in with entity id 13183 at ([world]365.4366824581789, 80.0, 27.403172143214803)
+[01:02:02] [Async Chat Thread - #5/INFO]: [Not Secure] <Tmw_juan> ya tenes el internet bien
+[01:02:04] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[01:02:04] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[01:02:04] [Server thread/INFO]: Julio_HZ left the game
+[01:02:23] [User Authenticator #14/INFO]: UUID of player Julio_HZ is 176ff5a1-332f-3cf6-a9df-3870d6cff6ea
+[01:02:23] [Server thread/INFO]: Julio_HZ joined the game
+[01:02:23] [Server thread/INFO]: Julio_HZ[/100.112.10.127:54743] logged in with entity id 13478 at ([world]365.69999998807907, 80.0, 27.76249998807907)
+[01:02:42] [Async Chat Thread - #5/INFO]: [Not Secure] <Tmw_juan> dos rayitas de ping
+[01:03:00] [Server thread/INFO]: Julio_HZ was kicked due to keepalive timeout!
+[01:03:00] [Server thread/INFO]: Julio_HZ lost connection: Timed out
+[01:03:00] [Server thread/INFO]: Julio_HZ left the game
+[01:03:12] [Server thread/INFO]: Tmw_juan issued server command: /gamemode creative
+[01:03:16] [Server thread/INFO]: Jordi_dior lost connection: Timed out
+[01:03:16] [Server thread/INFO]: Jordi_dior left the game
+[01:03:24] [User Authenticator #15/INFO]: UUID of player Jordi_dior is 7d52711d-b6f8-3c54-8e67-1149631d1b33
+[01:03:24] [Server thread/INFO]: Jordi_dior joined the game
+[01:03:24] [Server thread/INFO]: Jordi_dior[/100.113.101.122:50841] logged in with entity id 13782 at ([world]1115.2931013365626, 119.0, -826.5543981257775)
+[01:03:28] [Server thread/INFO]: Tmw_juan issued server command: /gamemode survival
+[01:05:23] [Server thread/INFO]: Tmw_juan issued server command: /gamemode creative
+[01:05:34] [Server thread/INFO]: Tmw_juan issued server command: /gamemode survival
+[01:14:13] [Async Chat Thread - #7/INFO]: [Not Secure] <Tmw_juan> voy a jugar otra cosa
+[01:14:26] [Async Chat Thread - #7/INFO]: [Not Secure] <Tmw_juan> me avisas para apagar esto
+[01:14:28] [Server thread/INFO]: Tmw_juan lost connection: Disconnected
+[01:14:28] [Server thread/INFO]: Tmw_juan left the game
+[01:30:13] [User Authenticator #16/INFO]: UUID of player Tmw_juan is ef70cbbe-001b-3964-9e89-729cf4147a2d
+[01:30:14] [Server thread/INFO]: Tmw_juan joined the game
+[01:30:14] [Server thread/INFO]: Tmw_juan[/100.118.127.43:56469] logged in with entity id 21424 at ([world]268.69999998807907, 104.0, 233.30000001192093)
+[01:30:17] [Async Chat Thread - #9/INFO]: [Not Secure] <Tmw_juan> q haces
+[01:32:09] [Server thread/INFO]: Tmw_juan issued server command: /time set day
+[01:33:04] [Server thread/INFO]: Jordi_dior issued server command: /tpahere Tmw_juan
+[01:33:29] [Server thread/INFO]: Tmw_juan issued server command: /tpaccept
+[01:34:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Jordi_dior> REGALAME COHETES
+[01:34:37] [Async Chat Thread - #11/INFO]: [Not Secure] <Tmw_juan> ño quiero
+[01:34:45] [Async Chat Thread - #11/INFO]: [Not Secure] <Jordi_dior> OK
+[01:34:49] [Async Chat Thread - #11/INFO]: [Not Secure] <Tmw_juan> coge
+[01:35:02] [Async Chat Thread - #11/INFO]: [Not Secure] <Tmw_juan> coge
+[01:35:19] [Async Chat Thread - #11/INFO]: [Not Secure] <Jordi_dior> THANKS
+[01:35:21] [Server thread/INFO]: Tmw_juan issued server command: /homes s
+[01:35:23] [Async Chat Thread - #11/INFO]: [Not Secure] <Tmw_juan> dale
+[01:35:50] [Async Chat Thread - #11/INFO]: [Not Secure] <Tmw_juan> tenes una cubeta de agua?
+[01:35:56] [Async Chat Thread - #11/INFO]: [Not Secure] <Jordi_dior> SI
+[01:35:59] [Async Chat Thread - #12/INFO]: [Not Secure] <Tmw_juan> prestame
+[01:36:13] [Async Chat Thread - #12/INFO]: [Not Secure] <Jordi_dior> LLEGA
+[01:36:17] [Async Chat Thread - #12/INFO]: [Not Secure] <Tmw_juan> manda
+[01:36:26] [Server thread/INFO]: Jordi_dior issued server command: /tpahere Tmw_juan
+[01:36:31] [Server thread/INFO]: Tmw_juan issued server command: /tpaccept
+[01:36:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Tmw_juan> voy a conseguir mas chulker quieres?
+[01:36:52] [Server thread/INFO]: Jordi_dior issued server command: /SISAS
+[01:36:55] [Async Chat Thread - #12/INFO]: [Not Secure] <Jordi_dior> SISAS
+[01:37:05] [Server thread/INFO]: Tmw_juan issued server command: /homes elytras
+[01:41:51] [Server thread/INFO]: Tmw_juan was doomed to fall by Enderman
+[01:44:53] [Server thread/INFO]: Villager Villager['Farmer'/24400, uuid='f63ad373-af7b-443a-ab7a-e193497dc35c', l='ServerLevel[world]', x=-396.37, y=63.00, z=1942.61, cpos=[-25, 121], tl=3504, v=true] died, message: 'Farmer was slain by Zombie'
+[01:45:19] [Server thread/INFO]: Tmw_juan issued server command: /homes elytras
+[01:50:43] [Server thread/INFO]: Tmw_juan issued server command: /homes flor
+[01:51:06] [Server thread/INFO]: Tmw_juan issued server command: /homes mina
+[01:51:11] [Server thread/INFO]: Tmw_juan was doomed to fall by Zombie
+[01:51:20] [Server thread/INFO]: Tmw_juan issued server command: /homes mina
+[01:51:31] [Server thread/INFO]: Tmw_juan issued server command: /homes mina 3
+[01:51:36] [Server thread/INFO]: Tmw_juan issued server command: /homes mina3
+[01:52:15] [Server thread/INFO]: Tmw_juan issued server command: /tp -48520 -51 -19816
+[01:52:27] [Server thread/INFO]: Jordi_dior lost connection: Timed out
+[01:52:27] [Server thread/INFO]: Jordi_dior left the game
+[01:57:15] [Server thread/INFO]: Tmw_juan lost connection: Disconnected
+[01:57:15] [Server thread/INFO]: Tmw_juan left the game
+[01:57:25] [Server thread/INFO]: Stopping the server
+[01:57:26] [Server thread/INFO]: Stopping server
+[01:57:26] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0
+[01:57:26] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.53
+[01:57:26] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:57:26] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:57:26] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:57:26] [Server thread/INFO]: Saving players
+[01:57:26] [Server thread/INFO]: Saving worlds
+[01:57:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:57:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:57:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:57:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Saved 1308 block chunks, 695 entity chunks, 11 poi chunks in world 'world' in 3.30s
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[01:57:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 11 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[01:57:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[01:57:29] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[01:57:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:57:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:57:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:57:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:57:29] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[01:57:29] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[01:57:29] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[01:57:29] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
